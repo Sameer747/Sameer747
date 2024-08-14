@@ -27,3 +27,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sameer747&show_icons=true&locale=en" alt="sameer747" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer747&" alt="sameer747" /></p>
 
+[![Check out Sameer747's profile on stardev.io](https://stardev.io/developers/Sameer747/badge/languages/global.svg)](https://stardev.io/developers/Sameer747)
+
